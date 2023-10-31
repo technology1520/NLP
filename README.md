@@ -1,6 +1,6 @@
 # NLP Text Analysis Project
 
-This project involves various Natural Language Processing (NLP) tasks to analyze a text, which can be in a TXT format. Below, you'll find a step-by-step guide on how to use and understand this project.
+This project involves various Natural Language Processing (NLP) tasks to analyze a text, which can be in a TXT format. Below, you'll find a step-by-step guide on how to use and understand this project.Here we have used the book The Scam by Debashis Basu and Sucheta Dalal.
 
 Project Overview
 In this project, we perform comprehensive text analysis on a provided text document. The primary steps include:
